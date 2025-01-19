@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\fornntend cu\u1ED1i k\u00EC\\WebCoffee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1464E515-0B44-4802-ACB5-FD0B990CD110}|WebCoffee.csproj|p:\\fornntend cu\u1ED1i k\u00EC\\webcoffee\\models\\changpassvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1464E515-0B44-4802-ACB5-FD0B990CD110}|WebCoffee.csproj|solutionrelative:models\\changpassvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1464E515-0B44-4802-ACB5-FD0B990CD110}|WebCoffee.csproj|p:\\fornntend cu\u1ED1i k\u00EC\\webcoffee\\repository\\iemailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1464E515-0B44-4802-ACB5-FD0B990CD110}|WebCoffee.csproj|solutionrelative:repository\\iemailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1464E515-0B44-4802-ACB5-FD0B990CD110}|WebCoffee.csproj|p:\\fornntend cu\u1ED1i k\u00EC\\webcoffee\\controllers\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1464E515-0B44-4802-ACB5-FD0B990CD110}|WebCoffee.csproj|solutionrelative:controllers\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1464E515-0B44-4802-ACB5-FD0B990CD110}|WebCoffee.csproj|p:\\fornntend cu\u1ED1i k\u00EC\\webcoffee\\repository\\idonhangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1464E515-0B44-4802-ACB5-FD0B990CD110}|WebCoffee.csproj|solutionrelative:repository\\idonhangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1464E515-0B44-4802-ACB5-FD0B990CD110}|WebCoffee.csproj|p:\\fornntend cu\u1ED1i k\u00EC\\webcoffee\\repository\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1464E515-0B44-4802-ACB5-FD0B990CD110}|WebCoffee.csproj|solutionrelative:repository\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1464E515-0B44-4802-ACB5-FD0B990CD110}|WebCoffee.csproj|p:\\fornntend cu\u1ED1i k\u00EC\\webcoffee\\models\\donhangrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1464E515-0B44-4802-ACB5-FD0B990CD110}|WebCoffee.csproj|solutionrelative:models\\donhangrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1464E515-0B44-4802-ACB5-FD0B990CD110}|WebCoffee.csproj|p:\\fornntend cu\u1ED1i k\u00EC\\webcoffee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1464E515-0B44-4802-ACB5-FD0B990CD110}|WebCoffee.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1464E515-0B44-4802-ACB5-FD0B990CD110}|WebCoffee.csproj|p:\\fornntend cu\u1ED1i k\u00EC\\webcoffee\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1464E515-0B44-4802-ACB5-FD0B990CD110}|WebCoffee.csproj|solutionrelative:controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1464E515-0B44-4802-ACB5-FD0B990CD110}|WebCoffee.csproj|p:\\fornntend cu\u1ED1i k\u00EC\\webcoffee\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1464E515-0B44-4802-ACB5-FD0B990CD110}|WebCoffee.csproj|solutionrelative:data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1464E515-0B44-4802-ACB5-FD0B990CD110}|WebCoffee.csproj|p:\\fornntend cu\u1ED1i k\u00EC\\webcoffee\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1464E515-0B44-4802-ACB5-FD0B990CD110}|WebCoffee.csproj|solutionrelative:repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1464E515-0B44-4802-ACB5-FD0B990CD110}|WebCoffee.csproj|p:\\fornntend cu\u1ED1i k\u00EC\\webcoffee\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1464E515-0B44-4802-ACB5-FD0B990CD110}|WebCoffee.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1464E515-0B44-4802-ACB5-FD0B990CD110}|WebCoffee.csproj|p:\\fornntend cu\u1ED1i k\u00EC\\webcoffee\\controllers\\topingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1464E515-0B44-4802-ACB5-FD0B990CD110}|WebCoffee.csproj|solutionrelative:controllers\\topingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1464E515-0B44-4802-ACB5-FD0B990CD110}|WebCoffee.csproj|p:\\fornntend cu\u1ED1i k\u00EC\\webcoffee\\models\\emailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1464E515-0B44-4802-ACB5-FD0B990CD110}|WebCoffee.csproj|solutionrelative:models\\emailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1464E515-0B44-4802-ACB5-FD0B990CD110}|WebCoffee.csproj|p:\\fornntend cu\u1ED1i k\u00EC\\webcoffee\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1464E515-0B44-4802-ACB5-FD0B990CD110}|WebCoffee.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1464E515-0B44-4802-ACB5-FD0B990CD110}|WebCoffee.csproj|p:\\fornntend cu\u1ED1i k\u00EC\\webcoffee\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1464E515-0B44-4802-ACB5-FD0B990CD110}|WebCoffee.csproj|solutionrelative:models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1464E515-0B44-4802-ACB5-FD0B990CD110}|WebCoffee.csproj|p:\\fornntend cu\u1ED1i k\u00EC\\webcoffee\\repository\\itoppingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1464E515-0B44-4802-ACB5-FD0B990CD110}|WebCoffee.csproj|solutionrelative:repository\\itoppingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1464E515-0B44-4802-ACB5-FD0B990CD110}|WebCoffee.csproj|p:\\fornntend cu\u1ED1i k\u00EC\\webcoffee\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1464E515-0B44-4802-ACB5-FD0B990CD110}|WebCoffee.csproj|solutionrelative:repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1464E515-0B44-4802-ACB5-FD0B990CD110}|WebCoffee.csproj|p:\\fornntend cu\u1ED1i k\u00EC\\webcoffee\\repository\\ihinhanhrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1464E515-0B44-4802-ACB5-FD0B990CD110}|WebCoffee.csproj|solutionrelative:repository\\ihinhanhrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 275,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmailRepository.cs",
+              "DocumentMoniker": "P:\\fornntend cu\u1ED1i k\u00EC\\WebCoffee\\Repository\\IEmailRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IEmailRepository.cs",
+              "ToolTip": "P:\\fornntend cu\u1ED1i k\u00EC\\WebCoffee\\Repository\\IEmailRepository.cs",
+              "RelativeToolTip": "Repository\\IEmailRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T12:10:53.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDonHangRepository.cs",
+              "DocumentMoniker": "P:\\fornntend cu\u1ED1i k\u00EC\\WebCoffee\\Repository\\IDonHangRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IDonHangRepository.cs",
+              "ToolTip": "P:\\fornntend cu\u1ED1i k\u00EC\\WebCoffee\\Repository\\IDonHangRepository.cs",
+              "RelativeToolTip": "Repository\\IDonHangRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:36:22.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DonHangController.cs",
+              "DocumentMoniker": "P:\\fornntend cu\u1ED1i k\u00EC\\WebCoffee\\Controllers\\DonHangController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DonHangController.cs",
+              "ToolTip": "P:\\fornntend cu\u1ED1i k\u00EC\\WebCoffee\\Controllers\\DonHangController.cs",
+              "RelativeToolTip": "Controllers\\DonHangController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:57:26.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DonHangRequest.cs",
+              "DocumentMoniker": "P:\\fornntend cu\u1ED1i k\u00EC\\WebCoffee\\Models\\DonHangRequest.cs",
+              "RelativeDocumentMoniker": "Models\\DonHangRequest.cs",
+              "ToolTip": "P:\\fornntend cu\u1ED1i k\u00EC\\WebCoffee\\Models\\DonHangRequest.cs",
+              "RelativeToolTip": "Models\\DonHangRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:55:46.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "P:\\fornntend cu\u1ED1i k\u00EC\\WebCoffee\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "P:\\fornntend cu\u1ED1i k\u00EC\\WebCoffee\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAMwGEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:36:14.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "P:\\fornntend cu\u1ED1i k\u00EC\\WebCoffee\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReviewController.cs",
+              "ToolTip": "P:\\fornntend cu\u1ED1i k\u00EC\\WebCoffee\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "Controllers\\ReviewController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:42:31.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "P:\\fornntend cu\u1ED1i k\u00EC\\WebCoffee\\Data\\User.cs",
+              "RelativeDocumentMoniker": "Data\\User.cs",
+              "ToolTip": "P:\\fornntend cu\u1ED1i k\u00EC\\WebCoffee\\Data\\User.cs",
+              "RelativeToolTip": "Data\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:07:06.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChangPassVM.cs",
+              "DocumentMoniker": "P:\\fornntend cu\u1ED1i k\u00EC\\WebCoffee\\Models\\ChangPassVM.cs",
+              "RelativeDocumentMoniker": "Models\\ChangPassVM.cs",
+              "ToolTip": "P:\\fornntend cu\u1ED1i k\u00EC\\WebCoffee\\Models\\ChangPassVM.cs",
+              "RelativeToolTip": "Models\\ChangPassVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:56:02.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IReviewRepository.cs",
+              "DocumentMoniker": "P:\\fornntend cu\u1ED1i k\u00EC\\WebCoffee\\Repository\\IReviewRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IReviewRepository.cs",
+              "ToolTip": "P:\\fornntend cu\u1ED1i k\u00EC\\WebCoffee\\Repository\\IReviewRepository.cs",
+              "RelativeToolTip": "Repository\\IReviewRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwGgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:40:47.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "P:\\fornntend cu\u1ED1i k\u00EC\\WebCoffee\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IUserRepository.cs",
+              "ToolTip": "P:\\fornntend cu\u1ED1i k\u00EC\\WebCoffee\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAMwJsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:30:07.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "P:\\fornntend cu\u1ED1i k\u00EC\\WebCoffee\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "P:\\fornntend cu\u1ED1i k\u00EC\\WebCoffee\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA2wEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:58:13.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TopingController.cs",
+              "DocumentMoniker": "P:\\fornntend cu\u1ED1i k\u00EC\\WebCoffee\\Controllers\\TopingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TopingController.cs",
+              "ToolTip": "P:\\fornntend cu\u1ED1i k\u00EC\\WebCoffee\\Controllers\\TopingController.cs",
+              "RelativeToolTip": "Controllers\\TopingController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA2wDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:58:34.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmailModel.cs",
+              "DocumentMoniker": "P:\\fornntend cu\u1ED1i k\u00EC\\WebCoffee\\Models\\EmailModel.cs",
+              "RelativeDocumentMoniker": "Models\\EmailModel.cs",
+              "ToolTip": "P:\\fornntend cu\u1ED1i k\u00EC\\WebCoffee\\Models\\EmailModel.cs",
+              "RelativeToolTip": "Models\\EmailModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:55:28.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "P:\\fornntend cu\u1ED1i k\u00EC\\WebCoffee\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
+              "ToolTip": "P:\\fornntend cu\u1ED1i k\u00EC\\WebCoffee\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:54:36.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "P:\\fornntend cu\u1ED1i k\u00EC\\WebCoffee\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterModel.cs",
+              "ToolTip": "P:\\fornntend cu\u1ED1i k\u00EC\\WebCoffee\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "Models\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:53:49.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IToppingRepository.cs",
+              "DocumentMoniker": "P:\\fornntend cu\u1ED1i k\u00EC\\WebCoffee\\Repository\\IToppingRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IToppingRepository.cs",
+              "ToolTip": "P:\\fornntend cu\u1ED1i k\u00EC\\WebCoffee\\Repository\\IToppingRepository.cs",
+              "RelativeToolTip": "Repository\\IToppingRepository.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAcwJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:52:23.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "P:\\fornntend cu\u1ED1i k\u00EC\\WebCoffee\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IProductRepository.cs",
+              "ToolTip": "P:\\fornntend cu\u1ED1i k\u00EC\\WebCoffee\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "Repository\\IProductRepository.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAcwLcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:51:56.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IHinhAnhRepository.cs",
+              "DocumentMoniker": "P:\\fornntend cu\u1ED1i k\u00EC\\WebCoffee\\Repository\\IHinhAnhRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IHinhAnhRepository.cs",
+              "ToolTip": "P:\\fornntend cu\u1ED1i k\u00EC\\WebCoffee\\Repository\\IHinhAnhRepository.cs",
+              "RelativeToolTip": "Repository\\IHinhAnhRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:51:08.036Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 275,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

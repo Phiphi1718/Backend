@@ -1,0 +1,314 @@
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\appsettings.json
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\WebCoffee.exe
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\WebCoffee.deps.json
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\WebCoffee.runtimeconfig.json
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\WebCoffee.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\WebCoffee.pdb
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\obj\Debug\net8.0\WebCoffee.csproj.AssemblyReference.cache
+C:\Users\Nitro 5\source\repos\WebCoffee\obj\Debug\net8.0\WebCoffee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro 5\source\repos\WebCoffee\obj\Debug\net8.0\WebCoffee.AssemblyInfoInputs.cache
+C:\Users\Nitro 5\source\repos\WebCoffee\obj\Debug\net8.0\WebCoffee.AssemblyInfo.cs
+C:\Users\Nitro 5\source\repos\WebCoffee\obj\Debug\net8.0\WebCoffee.csproj.CoreCompileInputs.cache
+C:\Users\Nitro 5\source\repos\WebCoffee\obj\Debug\net8.0\WebCoffee.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nitro 5\source\repos\WebCoffee\obj\Debug\net8.0\WebCoffee.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nitro 5\source\repos\WebCoffee\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Nitro 5\source\repos\WebCoffee\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Nitro 5\source\repos\WebCoffee\obj\Debug\net8.0\staticwebassets\msbuild.WebCoffee.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Nitro 5\source\repos\WebCoffee\obj\Debug\net8.0\staticwebassets\msbuild.build.WebCoffee.props
+C:\Users\Nitro 5\source\repos\WebCoffee\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebCoffee.props
+C:\Users\Nitro 5\source\repos\WebCoffee\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebCoffee.props
+C:\Users\Nitro 5\source\repos\WebCoffee\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Nitro 5\source\repos\WebCoffee\obj\Debug\net8.0\scopedcss\bundle\WebCoffee.styles.css
+C:\Users\Nitro 5\source\repos\WebCoffee\obj\Debug\net8.0\WebCoffee.csproj.Up2Date
+C:\Users\Nitro 5\source\repos\WebCoffee\obj\Debug\net8.0\WebCoffee.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\obj\Debug\net8.0\refint\WebCoffee.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\obj\Debug\net8.0\WebCoffee.pdb
+C:\Users\Nitro 5\source\repos\WebCoffee\obj\Debug\net8.0\WebCoffee.genruntimeconfig.cache
+C:\Users\Nitro 5\source\repos\WebCoffee\obj\Debug\net8.0\ref\WebCoffee.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\WebCoffee.staticwebassets.runtime.json
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Nitro 5\source\repos\WebCoffee\bin\Debug\net8.0\WebCoffee.staticwebassets.endpoints.json
+C:\Users\Nitro 5\source\repos\WebCoffee\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Nitro 5\source\repos\WebCoffee\obj\Debug\net8.0\staticwebassets\msbuild.WebCoffee.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Nitro 5\source\repos\WebCoffee\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\appsettings.Development.json
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\appsettings.json
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\WebCoffee.staticwebassets.runtime.json
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\WebCoffee.staticwebassets.endpoints.json
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\WebCoffee.exe
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\WebCoffee.deps.json
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\WebCoffee.runtimeconfig.json
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\WebCoffee.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\WebCoffee.pdb
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\AutoMapper.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Azure.Core.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Azure.Identity.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Humanizer.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Microsoft.OpenApi.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Mono.TextTemplating.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\System.ClientModel.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\System.CodeDom.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\System.Composition.Convention.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\System.Composition.Hosting.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\System.Composition.Runtime.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\System.Composition.TypedParts.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\System.Drawing.Common.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\System.Memory.Data.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\System.Runtime.Caching.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\System.Security.Permissions.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\System.Windows.Extensions.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+P:\fornntend cuối kì\WebCoffee\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+P:\fornntend cuối kì\WebCoffee\obj\Debug\net8.0\WebCoffee.csproj.AssemblyReference.cache
+P:\fornntend cuối kì\WebCoffee\obj\Debug\net8.0\WebCoffee.GeneratedMSBuildEditorConfig.editorconfig
+P:\fornntend cuối kì\WebCoffee\obj\Debug\net8.0\WebCoffee.AssemblyInfoInputs.cache
+P:\fornntend cuối kì\WebCoffee\obj\Debug\net8.0\WebCoffee.AssemblyInfo.cs
+P:\fornntend cuối kì\WebCoffee\obj\Debug\net8.0\WebCoffee.csproj.CoreCompileInputs.cache
+P:\fornntend cuối kì\WebCoffee\obj\Debug\net8.0\WebCoffee.MvcApplicationPartsAssemblyInfo.cs
+P:\fornntend cuối kì\WebCoffee\obj\Debug\net8.0\WebCoffee.MvcApplicationPartsAssemblyInfo.cache
+P:\fornntend cuối kì\WebCoffee\obj\Debug\net8.0\scopedcss\bundle\WebCoffee.styles.css
+P:\fornntend cuối kì\WebCoffee\obj\Debug\net8.0\staticwebassets.build.json
+P:\fornntend cuối kì\WebCoffee\obj\Debug\net8.0\staticwebassets.development.json
+P:\fornntend cuối kì\WebCoffee\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+P:\fornntend cuối kì\WebCoffee\obj\Debug\net8.0\staticwebassets\msbuild.WebCoffee.Microsoft.AspNetCore.StaticWebAssets.props
+P:\fornntend cuối kì\WebCoffee\obj\Debug\net8.0\staticwebassets\msbuild.WebCoffee.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+P:\fornntend cuối kì\WebCoffee\obj\Debug\net8.0\staticwebassets\msbuild.build.WebCoffee.props
+P:\fornntend cuối kì\WebCoffee\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebCoffee.props
+P:\fornntend cuối kì\WebCoffee\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebCoffee.props
+P:\fornntend cuối kì\WebCoffee\obj\Debug\net8.0\staticwebassets.pack.json
+P:\fornntend cuối kì\WebCoffee\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+P:\fornntend cuối kì\WebCoffee\obj\Debug\net8.0\WebCoffee.csproj.Up2Date
+P:\fornntend cuối kì\WebCoffee\obj\Debug\net8.0\WebCoffee.dll
+P:\fornntend cuối kì\WebCoffee\obj\Debug\net8.0\refint\WebCoffee.dll
+P:\fornntend cuối kì\WebCoffee\obj\Debug\net8.0\WebCoffee.pdb
+P:\fornntend cuối kì\WebCoffee\obj\Debug\net8.0\WebCoffee.genruntimeconfig.cache
+P:\fornntend cuối kì\WebCoffee\obj\Debug\net8.0\ref\WebCoffee.dll
